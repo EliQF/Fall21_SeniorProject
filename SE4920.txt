@@ -5,4 +5,4 @@ Push : to add the changes to your git repository files on your computer to the v
 
 Discard Hunk : Remove the change without trace
 
-Branch : 
+Branch : Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
